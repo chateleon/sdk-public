@@ -1,0 +1,22 @@
+{
+  "name": "@chateleon/sdk-public",
+  "version": "1.0.1",
+  "description": "Chateleon sdk public packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chateleon/sdk-public.git"
+  },
+  "keywords": [
+    "chateleon",
+    "animation",
+    "smart",
+    "mascots",
+    "sdk"
+  ],
+  "author": "Chateleon SDK Team",
+  "license": "ISC"
+}
